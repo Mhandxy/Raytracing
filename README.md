@@ -1,3 +1,3 @@
-Raytracing
+Ray Tracing
 ==========
-基本光线跟踪算法
+See Report/raytracing.pdf
