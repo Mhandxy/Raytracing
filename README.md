@@ -1,3 +1,2 @@
-Ray Tracing
+Raytracing
 ==========
-See Report/raytracing.pdf
